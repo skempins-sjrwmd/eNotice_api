@@ -1,0 +1,24 @@
+{ "notices":
+[
+	{
+		"id": "ENTC-2020102301009"
+		"noticeDate": "23-OCT-2020"
+		"noticeType": "Receipt"
+		"projectType": "CUP"
+		"county": "Brevard"
+		"description": "CUP - Application Receipt Notices"
+		"documentUrl": "https://permitting.sjrwmd.com/apps/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=Latest&dDocName=ENTC-2020102301009"
+		"links": [{"href": "/notices/ENTC-2020102301009", "rel": self}]
+	},
+	{
+		"id": "ENTC-2020102301031"
+		"noticeDate": "23-OCT-2020"
+		"noticeType": "Receipt"
+		"projectType": "CUP"
+		"county": "Duval"
+		"description": "CUP - Application Receipt Notices"
+		"documentUrl": "https://permitting.sjrwmd.com/apps/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=Latest&dDocName=ENTC-2020102301031"
+		"links": [{"href": "/notices/ENTC-2020102301031", "rel": self}]
+	}
+]
+}
